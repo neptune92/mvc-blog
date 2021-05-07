@@ -1,2 +1,3 @@
 DROP DATABASE IF EXISTS mvcBlog_db;
+
 CREATE DATABASE mvcBlog_db;
